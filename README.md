@@ -13,6 +13,6 @@ Then copy this cd Linux-gui-on-termux
 
 Then this chmod +x Setup.sh
 
-Then this ./Setup.sh
+And this ./Setup.sh
 
 Complete the Setup and enjoy!
