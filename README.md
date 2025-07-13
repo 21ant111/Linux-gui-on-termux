@@ -16,5 +16,3 @@ Then this chmod +x Setup.sh
 And this ./Setup.sh
 
 Complete the Setup and enjoy!
-
-But if you want to remove it just type chmod +x Remove.sh && ./Remove.sh
